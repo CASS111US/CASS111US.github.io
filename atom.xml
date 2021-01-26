@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://CASS111US.github.io</id>
+    <id>http://Cassius.github.io</id>
     <title>Cassius_Li</title>
-    <updated>2021-01-26T03:26:39.099Z</updated>
+    <updated>2021-01-26T03:40:17.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://CASS111US.github.io"/>
-    <link rel="self" href="http://CASS111US.github.io/atom.xml"/>
+    <link rel="alternate" href="http://Cassius.github.io"/>
+    <link rel="self" href="http://Cassius.github.io/atom.xml"/>
     <subtitle>cassius&apos; blog</subtitle>
-    <logo>http://CASS111US.github.io/images/avatar.png</logo>
-    <icon>http://CASS111US.github.io/favicon.ico</icon>
+    <logo>http://Cassius.github.io/images/avatar.png</logo>
+    <icon>http://Cassius.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Cassius_Li</rights>
     <entry>
         <title type="html"><![CDATA[尝试写博客]]></title>
-        <id>http://CASS111US.github.io/post/chang-shi-xie-bo-ke/</id>
-        <link href="http://CASS111US.github.io/post/chang-shi-xie-bo-ke/">
+        <id>http://Cassius.github.io/post/chang-shi-xie-bo-ke/</id>
+        <link href="http://Cassius.github.io/post/chang-shi-xie-bo-ke/">
         </link>
         <updated>2021-01-26T03:05:23.000Z</updated>
         <content type="html"><![CDATA[<p>本博客作为日常学习的记录，内容包括但不限于认知科学、计算机科学、统计学和哲学。偶尔可能会有一些日常的记录(●ˇ∀ˇ●)</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://CASS111US.github.io/post/hello-gridea/</id>
-        <link href="http://CASS111US.github.io/post/hello-gridea/">
+        <id>http://Cassius.github.io/post/hello-gridea/</id>
+        <link href="http://Cassius.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
